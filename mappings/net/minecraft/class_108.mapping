@@ -1,4 +1,4 @@
 CLASS net/minecraft/class_108 net/minecraft/class_108
-	COMMENT Entity class?
+	COMMENT Another part of mob pathfinding.
 	METHOD method_404 (Lnet/minecraft/class_57;IIILnet/minecraft/class_29;)I
 		COMMENT Get movement type?

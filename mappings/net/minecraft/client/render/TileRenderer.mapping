@@ -1,1 +1,7 @@
 CLASS net/minecraft/class_13 net/minecraft/client/render/TileRenderer
+	METHOD method_46 tileBottom (Lnet/minecraft/class_17;DDDI)V
+	METHOD method_55 tileTop (Lnet/minecraft/class_17;DDDI)V
+	METHOD method_61 tileNorth (Lnet/minecraft/class_17;DDDI)V
+	METHOD method_65 tileSouth (Lnet/minecraft/class_17;DDDI)V
+	METHOD method_67 tileWest (Lnet/minecraft/class_17;DDDI)V
+	METHOD method_69 tileEast (Lnet/minecraft/class_17;DDDI)V
