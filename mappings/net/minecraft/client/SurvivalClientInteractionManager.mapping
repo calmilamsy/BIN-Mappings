@@ -1,5 +1,5 @@
-CLASS net/minecraft/class_608 net/minecraft/class_608
-	COMMENT Used in multiplayer to send packets?
+CLASS net/minecraft/class_608 net/minecraft/client/SurvivalClientInteractionManager
+	COMMENT
 	FIELD field_2616 netHandler Lnet/minecraft/class_219;
 	METHOD <init> (Lnet/minecraft/client/Minecraft;Lnet/minecraft/class_219;)V
 		ARG 1 minecraft
